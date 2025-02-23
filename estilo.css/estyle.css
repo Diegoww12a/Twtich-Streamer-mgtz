@@ -6,7 +6,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: 300; /* Ou 200 para mais fina */
-    background: url('https://raw.githubusercontent.com/Diegoww12a/Twtich-Streamer-mgtz/BRANCH/Imagem/pexels-little-visuals-1954.jpg');
+    background: url('../Imagem/pexels-little-visuals-1954.jpg');
+
 
     
 
