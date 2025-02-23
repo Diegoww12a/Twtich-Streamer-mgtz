@@ -6,7 +6,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: 300; /* Ou 200 para mais fina */
-    background: url(/Imagem/pexels-little-visuals-1954.jpg);
+    background: url('https://github.com/seu-usuario/seu-repositorio/raw/main/Imagem/pexels-little-visuals-1954.jpg');
+
 }
 .container{
     display: flex;
