@@ -6,7 +6,9 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: 300; /* Ou 200 para mais fina */
-    background: url('/Imagem/pexels-little-visuals-1954.jpg');
+    background: linear-gradient(to bottom, #360836,#140213 );
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 
 
     
